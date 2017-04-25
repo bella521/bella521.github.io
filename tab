@@ -114,7 +114,7 @@ body#blog li.blog a:hover {
  <li class="sports"><a href="../Documents/Tab_sports.html">体育</a></li>
  <li class="music"><a href="../Documents/Tab_music.html">音乐</a></li>
  <li class="nextstation"><a href="../Documents/Tab_nextstation.html">下一站</a></li>
- <li class="blog"><a href="../Documents/Tab_blog.html">博客</a></li>
+ <li class="blog"><a href="../Documents/index.html">博客</a></li>
  </ul>
  <div id="content">
   <span id="leftpic">
